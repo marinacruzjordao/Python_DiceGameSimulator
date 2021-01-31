@@ -65,3 +65,6 @@ while True:
             number=d.dice()
             print(d.match(int(val),number))
 
+
+
+
