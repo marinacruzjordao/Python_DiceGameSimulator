@@ -1,3 +1,7 @@
+
+#require PySimpleGUI instalion
+#pip install PySimpleGUI
+
 from random import randint
 from PySimpleGUI import PySimpleGUI as sg
 
